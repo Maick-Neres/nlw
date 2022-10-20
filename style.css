@@ -16,6 +16,10 @@ body *{
   font-family: Inter ,sans-serif;
   line-height: 160%;
 }
+
+::-webkit-scrollbar{
+  
+}
 header{
   height: calc(120px + 32px);
   margin-top: 32px;
